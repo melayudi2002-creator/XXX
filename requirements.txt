@@ -1,5 +1,7 @@
 requests
 pytz
+bs4
+aiohttp
 fake-useragent
 Pillow
 python-telegram-bot
