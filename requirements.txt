@@ -1,0 +1,14 @@
+requests
+pytz
+fake-useragent
+Pillow
+python-telegram-bot
+pymongo[srv]
+dnspython
+python-dotenv
+anticaptchaofficial
+qrcode
+mimesis
+certifi
+motor
+aiofiles
